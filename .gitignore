@@ -9,6 +9,8 @@
 #
 # Normal rules (sorted alphabetically)
 #
+out/
+toolchain/
 .*
 *.a
 *.bin
@@ -124,3 +126,7 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+*.orig
+*.rej
+*.orig
+*.rej
