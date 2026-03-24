@@ -33,7 +33,7 @@ Custom kernel for Samsung Galaxy devices with integrated KSU Next (v3.1.0) and S
 ## ⚠️ Notes
 * Ensure your ROM and recovery are compatible
 * Always take a full backup before flashing
- Flash at your own risk
+* Flash at your own risk
 
 ## 🙏 Credits
 - **[KSU Next developers](https://github.com/KernelSU-Next/KernelSU-Next)**
