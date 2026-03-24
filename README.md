@@ -15,13 +15,14 @@ Custom kernel for Samsung Galaxy devices with integrated KSU Next (v3.1.0) and S
 * beyond1lte (Galaxy S10)
 * beyond2lte (Galaxy S10+)
 * beyondx (Galaxy S10 5G)
+* beyondxks (Galaxy S10 5G Korean)
 
 ### Galaxy Note10 Series
 * d1 (Galaxy Note10)
 * d1xks (Galaxy Note10 5G)
 * d2s (Galaxy Note10+)
 * d2x (Galaxy Note10+ 5G)
-* d2xks (Galaxy Note10+ 5G KR)
+* d2xks (Galaxy Note10+ 5G Korean)
 
 ## 📦 Installation
 * Download the compiled kernel ZIP
